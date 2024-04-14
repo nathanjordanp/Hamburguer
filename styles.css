@@ -13,7 +13,7 @@ body {
 .cover-photo {
     width: 100%;
     height: 250px;
-    background-image: url('https://scontent.fsdu1-1.fna.fbcdn.net/v/t39.30808-6/340664119_199467996162131_3714080721930026786_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=4HR52UFcwb0Ab5mXuHl&_nc_ht=scontent.fsdu1-1.fna&oh=00_AfBPA9uwGE64lxKYEbZ-Hj9MncC4zcyzy-NwV-aOXakhiQ&oe=6618BBCD');
+    background-image: url('https://scontent.fsdu1-1.fna.fbcdn.net/v/t39.30808-6/340664119_199467996162131_3714080721930026786_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=5f2048&_nc_ohc=ROci9DmtM6IAb5BFQWr&_nc_ht=scontent.fsdu1-1.fna&oh=00_AfC47yLxHWKEEGoNWfDQKUZJLTUmiCpCbNqOkWaLzhCS5w&oe=6621F64D');
     background-size: cover;
     background-position: center;
 }
